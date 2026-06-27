@@ -21,4 +21,4 @@
   </table>
 
 
-<img src="./path/to/(https://64.media.tumblr.com/3ef4dfaada268d7a219d0c936937ab85/1b0f4996bc8b65c4-60/s2048x3072/42607ceb406568f5cd0ec8134f55f3de135fa77e.gifv)" width="400" alt="Description of GIF">
+<img src="./path/to/(https://64.media.tumblr.com/3ef4dfaada268d7a219d0c936937ab85/1b0f4996bc8b65c4-60/s2048x3072/42607ceb406568f5cd0ec8134f55f3de135fa77e.gifv)" width="400" >
