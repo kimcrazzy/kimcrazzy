@@ -12,11 +12,6 @@
 
 
 
-![](https://64.media.tumblr.com/80894ac41274a9139dd74b425a33b8fa/728f5c17a576ce01-de/s540x810/0961dea54de879c789caeae5165205547b760133.gifv)
-
-[p.cc](https://pronouns.cc/@kimcrazzy)            [rentry](https://www.youtube.com/watch?v=0EnppgliUGU)             [ata](https://kimcrazzy.atabook.org/)
-
-
 
   <table>
     <tr>
@@ -26,6 +21,12 @@
     </tr>
   </table>
 
+
+[p.cc](https://pronouns.cc/@kimcrazzy)            [rentry](https://www.youtube.com/watch?v=0EnppgliUGU)             [ata](https://kimcrazzy.atabook.org/)
+
+
+
+![](https://64.media.tumblr.com/80894ac41274a9139dd74b425a33b8fa/728f5c17a576ce01-de/s540x810/0961dea54de879c789caeae5165205547b760133.gifv)
 
 
   <table>
