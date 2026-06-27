@@ -21,7 +21,4 @@
   </table>
 
 
-
- <p align="center">
-  <img src="https://64.media.tumblr.com/a37e7189c92cfe3a983a7954906a1598/815d1ac314d96ad0-18/s1280x1920/8566469357a1526817dfdbfd5b86570d7466c71e.pnj" width="400" >
-</p>
+![]([https://www.tumblr.com/inkyysansgraphics](https://64.media.tumblr.com/80894ac41274a9139dd74b425a33b8fa/728f5c17a576ce01-de/s540x810/0961dea54de879c789caeae5165205547b760133.gifv))
