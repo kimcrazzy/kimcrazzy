@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>{testy test}
+      <td>$\color{#b86b24}{\textsf{kim or ink, i dont mind which !}}
       </td>
     </tr>
   </table>
