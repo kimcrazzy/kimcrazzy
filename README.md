@@ -33,7 +33,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#b86b24}\text{BYI AND DNI}}$ ${\color{#c19836}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#a0a847}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#86a6ac}\text{16 years old (╦̵̵﹏╦̵̵)}}$<br>
+      <td>${\color{#b86b24}\text{BYI}}$ ${\color{#c19836}\text{before you interact, i'm a pretty nice person and love interacting with new people!}}$<br>${\color{#a0a847}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#86a6ac}\text{16 years old (╦̵̵﹏╦̵̵)}}$<br>
       </td>
     </tr>
   </table>
