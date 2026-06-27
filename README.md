@@ -20,3 +20,12 @@
     </tr>
   </table>
 
+
+  <table>
+    <tr>
+      <td align="center"
+      <td>${\color{#b86b24}\text{kim or ink, i dont mind which!}}$ ${\color{#c19836}\text{she/he/they , genderfluid}}$
+      </td>
+    </tr>
+  </table>
+
