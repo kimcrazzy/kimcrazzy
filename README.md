@@ -1,5 +1,10 @@
 
-  ![stalkers](https://komarev.com/ghpvc/?username=aspiicee)
+<div align="center">
+
+
+![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=Aus)
+
+
  
  <p align="center">
   <img src="https://magma.com/shared/qddqQCqfk0ykFtx5NWtECT" alt="Alt Text" width="390" />
