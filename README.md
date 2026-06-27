@@ -15,7 +15,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#b86b24}\text{kim or ink, i dont mind which!}}$ ${\color{#c19836}\text{she/he/they , genderfluid (｡˙ヮ˙)}}$<br>${\color{#a0a847}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#c19836}\text{16 years old}}$<br>
+      <td>${\color{#b86b24}\text{kim or ink, i dont mind which!}}$ ${\color{#c19836}\text{she/he/they , genderfluid (｡˙ヮ˙)}}$<br>${\color{#a0a847}\text{usually offtab or drawing, please w2i (⇀‸↼‶)}}$ ${\color{#86a6ac}\text{16 years old (╦̵̵﹏╦̵̵)}}$<br>
       </td>
     </tr>
   </table>
