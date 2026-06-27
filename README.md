@@ -2,7 +2,7 @@
 <div align="center">
 
 
-![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=Aus)
+![stalkers](https://komarev.com/ghpvc/?username=aspiicee&color=b86b24&style=flat&label=AlternateUniverse)
 
 
  
