@@ -7,7 +7,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>{\textsf{test}}
+      <td>{testy test}
       </td>
     </tr>
   </table>
