@@ -38,5 +38,17 @@
   </table>
 
 
+
+
+  <table>
+    <tr>
+      <td align="center"
+      <td>${\color{#c04162}\text{DNI}}$ ${\color{#8b4750}\text{basic dni criteria, people who are one of these people or support it.}}$<br>${\color{#b86431}\text{ple}}$<br>
+      </td>
+    </tr>
+  </table>
+
+
+
 still work in progress !!!
 
