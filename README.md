@@ -64,7 +64,7 @@ $\color{#a1572b}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  
 
 $\color{#718891}{\text{  I've got to go}}$
 
-$\color{#382b29}{\text{  Gotta leave you all behind and face the truth  .}}$
+$\color{#51403d}{\text{  Gotta leave you all behind and face the truth  .}}$
 
 
 
