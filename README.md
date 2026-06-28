@@ -56,13 +56,9 @@
 
 <div align="left">
   Too late, my time has come.$<br>$
-
  Sends shivers down my spine$<br>$
-
  body's aching all the time$<br>$
-
- Goodbye, everybody,$<br>$
- 
+ Goodbye, everybody,$<br>$ 
  I've got to go$<br>$
 </div>
 
