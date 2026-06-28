@@ -58,9 +58,9 @@
 
 
 
-$\color{#718891}{\text{'  Too late , my time has come  }}$ $\color{#718891}{\text{  Sends shivers down my spine,}}$
+$\color{#c5aa7e}{\text{'  Too late , my time has come  }}$ $\color{#b99b69}{\text{  Sends shivers down my spine,}}$
 
-$\color{#718891}{\text{body's aching all the time  }}$ $\color{#718891}{\text{  Goodbye, everybody}}$
+$\color{#a1572b}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  Goodbye, everybody}}$
 
 $\color{#718891}{\text{  I've got to go  ,}}$
 
