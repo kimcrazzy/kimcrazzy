@@ -43,7 +43,7 @@
   <table>
     <tr>
       <td align="center"
-      <td>${\color{#718891}\text{DNI}}$ ${\color{#6e2d2d}\text{basic dni criteria, Homophobic, Dark/Proshippers.}}$<br>${\color{#a8ac9c}\text{Pedophiles, And Weirdos in general }$<br>
+      <td>${\color{#718891}\text{DNI}}$ ${\color{#6e2d2d}\text{basic dni criteria, Homophobic, Dark/Proshippers.}$<br>${\color{#a8ac9c}\text{Pedophiles, And Weirdos in general }$<br>
       </td>
     </tr>
   </table>
