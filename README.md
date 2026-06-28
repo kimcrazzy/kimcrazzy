@@ -70,7 +70,7 @@ $\color{#718891}{\text{  I've got to go  ,}}$
 
 
  <p align="center">
-  <img src="https://magma.com/shared/lfn83jyMakGGrG8VopKKUT" alt="Alt Text" width="350" />
+  <img src="https://magma.com/shared/qGpBhvHa4BV9pwDW7A8_Jz" alt="Alt Text" width="350" />
 </p>
 
 
