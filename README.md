@@ -62,9 +62,9 @@ $\color{#c5aa7e}{\text{'  Too late , my time has come  }}$ $\color{#b99b69}{\tex
 
 $\color{#a1572b}{\text{body's aching all the time  }}$ $\color{#98412d}{\text{  Goodbye, everybody}}$
 
-$\color{#718891}{\text{  I've got to go  ,}}$
+$\color{#718891}{\text{  I've got to go}}$
 
-
+$\color{#382b29}{\text{  Gotta leave you all behind and face the truth  .}}$
 
 
 
