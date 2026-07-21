@@ -70,4 +70,8 @@ $\color{#ffd4e5}{\text{  It's a showdown in the spotlight  .}}$
 
 
 
-$\color{#ffd4e5}{\text{art by}}$ [Confused Bunni](https://www.pinterest.com/Confused_Bunni/)
+$\color{#ff1494}{\text{art by}}$ [Confused Bunni](https://www.pinterest.com/Confused_Bunni/)
+
+
+
+$\color{#ff5f94}{\text{PFP art by}}$ [Mikey](https://www.pinterest.com/mahit0s/)
