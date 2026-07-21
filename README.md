@@ -70,4 +70,4 @@ $\color{#ffd4e5}{\text{  It's a showdown in the spotlight  .}}$
 
 
 
-$\color{#ffd4e5}{\text{art by [Confused Bunni](https://www.pinterest.com/Confused_Bunni/)}}$
+$\color{#ffd4e5}{\text{art by}}$ [Confused Bunni](https://www.pinterest.com/Confused_Bunni/)
